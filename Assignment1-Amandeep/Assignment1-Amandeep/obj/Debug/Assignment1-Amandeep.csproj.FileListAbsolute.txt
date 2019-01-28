@@ -1,0 +1,17 @@
+D:\Assignment1-Amandeep\Assignment1-Amandeep\Assignment1-Amandeep\bin\Debug\Assignment1-Amandeep.exe.config
+D:\Assignment1-Amandeep\Assignment1-Amandeep\Assignment1-Amandeep\bin\Debug\Assignment1-Amandeep.exe
+D:\Assignment1-Amandeep\Assignment1-Amandeep\Assignment1-Amandeep\bin\Debug\Assignment1-Amandeep.pdb
+D:\Assignment1-Amandeep\Assignment1-Amandeep\Assignment1-Amandeep\obj\Debug\Assignment1-Amandeep.csproj.CoreCompileInputs.cache
+D:\Assignment1-Amandeep\Assignment1-Amandeep\Assignment1-Amandeep\obj\Debug\Assignment1-Amandeep.exe
+D:\Assignment1-Amandeep\Assignment1-Amandeep\Assignment1-Amandeep\obj\Debug\Assignment1-Amandeep.pdb
+D:\Assignment1-Amandeep\Assignment1-Amandeep\Assignment1-Amandeep\bin\Debug\nunit.framework.dll
+D:\Assignment1-Amandeep\Assignment1-Amandeep\Assignment1-Amandeep\bin\Debug\nunit.framework.xml
+C:\Users\vk\Desktop\Assignment1-Amandeep\Assignment1-Amandeep\bin\Debug\Assignment1-Amandeep.exe.config
+C:\Users\vk\Desktop\Assignment1-Amandeep\Assignment1-Amandeep\bin\Debug\Assignment1-Amandeep.exe
+C:\Users\vk\Desktop\Assignment1-Amandeep\Assignment1-Amandeep\bin\Debug\Assignment1-Amandeep.pdb
+C:\Users\vk\Desktop\Assignment1-Amandeep\Assignment1-Amandeep\bin\Debug\nunit.framework.xml
+C:\Users\vk\Desktop\Assignment1-Amandeep\Assignment1-Amandeep\obj\Debug\Assignment1-Amandeep.csprojAssemblyReference.cache
+C:\Users\vk\Desktop\Assignment1-Amandeep\Assignment1-Amandeep\obj\Debug\Assignment1-Amandeep.csproj.CoreCompileInputs.cache
+C:\Users\vk\Desktop\Assignment1-Amandeep\Assignment1-Amandeep\obj\Debug\Assignment1-Amandeep.csproj.CopyComplete
+C:\Users\vk\Desktop\Assignment1-Amandeep\Assignment1-Amandeep\obj\Debug\Assignment1-Amandeep.exe
+C:\Users\vk\Desktop\Assignment1-Amandeep\Assignment1-Amandeep\obj\Debug\Assignment1-Amandeep.pdb

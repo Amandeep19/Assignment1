@@ -1,0 +1,12 @@
+D:\Assignment1-Amandeep\Assignment1-Amandeep\Assignment1-Amandeep_Tests\obj\Debug\Assignment1-Amandeep_Tests.csprojResolveAssemblyReference.cache
+D:\Assignment1-Amandeep\Assignment1-Amandeep\Assignment1-Amandeep_Tests\obj\Debug\Assignment1-Amandeep_Tests.csproj.CoreCompileInputs.cache
+D:\Assignment1-Amandeep\Assignment1-Amandeep\Assignment1-Amandeep_Tests\bin\Debug\Assignment1-Amandeep_Tests.dll.config
+D:\Assignment1-Amandeep\Assignment1-Amandeep\Assignment1-Amandeep_Tests\bin\Debug\Assignment1-Amandeep_Tests.dll
+D:\Assignment1-Amandeep\Assignment1-Amandeep\Assignment1-Amandeep_Tests\bin\Debug\Assignment1-Amandeep_Tests.pdb
+D:\Assignment1-Amandeep\Assignment1-Amandeep\Assignment1-Amandeep_Tests\bin\Debug\Assignment1-Amandeep.exe
+D:\Assignment1-Amandeep\Assignment1-Amandeep\Assignment1-Amandeep_Tests\bin\Debug\nunit.framework.dll
+D:\Assignment1-Amandeep\Assignment1-Amandeep\Assignment1-Amandeep_Tests\bin\Debug\Assignment1-Amandeep.pdb
+D:\Assignment1-Amandeep\Assignment1-Amandeep\Assignment1-Amandeep_Tests\bin\Debug\Assignment1-Amandeep.exe.config
+D:\Assignment1-Amandeep\Assignment1-Amandeep\Assignment1-Amandeep_Tests\bin\Debug\nunit.framework.xml
+D:\Assignment1-Amandeep\Assignment1-Amandeep\Assignment1-Amandeep_Tests\obj\Debug\Assignment1-Amandeep_Tests.dll
+D:\Assignment1-Amandeep\Assignment1-Amandeep\Assignment1-Amandeep_Tests\obj\Debug\Assignment1-Amandeep_Tests.pdb
