@@ -17,7 +17,7 @@ namespace Assignment1_Amandeep_Tests
             //arrange
             int l = 1;
             int w = 3;
-            Rectangle testRectangle = new Rectangle(l, w);
+            Rectangle testRectangle = new Rectangle(l, w);//expected length
 
             //act
             int length = testRectangle.GetLength();
